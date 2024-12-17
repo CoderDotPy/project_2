@@ -26,12 +26,12 @@ We found the following missing values across columns:
 ## Correlation Matrix
 The correlation matrix highlights relationships between variables. The following chart shows these correlations.
 
-![Correlation Matrix](./C:\Users\h\correlation_matrix.png)
+![Correlation Matrix](https://github.com/CoderDotPy/project_2/blob/media/correlation_matrix.png?raw=true)
 
 ## Outliers Detection
 The outliers found in the dataset are shown in the chart below.
 
-![Outliers](./C:\Users\h\outliers.png)
+![Outliers](https://github.com/CoderDotPy/project_2/blob/media/outliers.png?raw=true)
 
 ## Clustering
 Based on KMeans clustering, we identified 3 clusters in the data. These clusters represent groupings with potential significance.
